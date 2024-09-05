@@ -31,15 +31,15 @@ Welcome to the **Snake Game** project! 🕹️ Built with Python and powered by 
 ## How to Run ▶️
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/snake-game.git
+   git clone https://github.com/TeddyBb1/snake.git
    ```
 2. Navigate to the project directory:
    ```
-   cd snake-game
+   cd snake
    ```
 3. Run the game:
    ```
-   python snake_game.py
+   python snake.py
    ```
 
 ## Have Fun! 🎉
