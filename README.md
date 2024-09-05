@@ -1,7 +1,3 @@
-Desigur! Iată o descriere cu emoji-uri pentru secțiunea **README** de pe GitHub pentru jocul tău Snake în Python:
-
----
-
 # 🐍 Snake Game 🎮
 
 Welcome to the **Snake Game** project! 🕹️ Built with Python and powered by the **Pygame** library, this classic arcade game will test your reflexes and challenge your snake-navigation skills! 🚀
@@ -43,7 +39,3 @@ Welcome to the **Snake Game** project! 🕹️ Built with Python and powered by 
    ```
 
 ## Have Fun! 🎉
-
----
-
-Poți să adaptezi și să modifici această descriere după cum consideri că se potrivește mai bine proiectului tău. Dacă ai nevoie de alte ajustări, sunt aici să te ajut!
